@@ -1,0 +1,30 @@
+{
+  "archive_cells": 418000,
+  "hzdt_cells": 420000,
+  "valid_cells": 418000,
+  "matched_cells": 418000,
+  "mismatch_cells": 0,
+  "match_rate": 100.0,
+  "only_in_archive": 0,
+  "only_in_hzdt": 0,
+  "only_in_hzdt_nonzero": 0,
+  "sum_abs_diff_inflow": 0,
+  "sum_abs_diff_outflow": 0,
+  "hzdt_tail_cells": 2000,
+  "hzdt_tail_nonzero": 67,
+  "hzdt_summary": {
+    "dates": 25,
+    "date_range": [
+      "2019-01-01",
+      "2019-01-25"
+    ],
+    "stations": 80,
+    "station_min": 0,
+    "station_max": 80,
+    "cells_per_day": [
+      16800
+    ],
+    "tail_2325_cells": 2000,
+    "tail_2325_nonzero": 67
+  }
+}

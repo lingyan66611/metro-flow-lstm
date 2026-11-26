@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/
+results/*.pt
+results/lstm_predictions.csv

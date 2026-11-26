@@ -1,0 +1,11 @@
+{
+  "rows": 418000,
+  "stations": 80,
+  "days": 25,
+  "zero_cell_rate": 0.0016,
+  "filled_days": [],
+  "filled_cells": 0,
+  "clipped_cells": 3801,
+  "inflow_total": 29165035,
+  "outflow_total": 29200220
+}
